@@ -1,0 +1,12 @@
+* {
+    color: magenta
+}
+
+#secretMsg {
+    display: none;
+    background-color: navy;
+    padding: 20px;
+    margin: 20px 40px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
